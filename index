@@ -1,4 +1,11 @@
 #/r/zsh wiki
 Welcome to the /r/zsh wiki - content coming soon!
 
+#Resources
+`man zsh`  
+[zsh user guide](http://zsh.sourceforge.net/Guide/) (official)  
+[zshwiki.org](http://zshwiki.org) (unofficial)  
+[zsh-users mailinglist archive](http://www.zsh.org/cgi-bin/mla/wilma/users)  
+and this subreddit, of course
+
 This wiki is updated daily from its [github repo](https://github.com/nathschwarz/rzshwiki) through the [rwikibot](https://github.com/nathschwarz/rwikibot).
