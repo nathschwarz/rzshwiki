@@ -1,6 +1,8 @@
 #/r/zsh wiki
 Welcome to the /r/zsh wiki - content coming soon!
 
+This wiki is updated daily from its [github repo](https://github.com/nathschwarz/rzshwiki) through the [rwikibot](https://github.com/nathschwarz/rwikibot).
+
 #Resources
 `man zsh`  
 [zsh user guide](http://zsh.sourceforge.net/Guide/) (official)  
@@ -9,6 +11,4 @@ Welcome to the /r/zsh wiki - content coming soon!
 and this subreddit, of course
 
 #Books
-[The Book](http://www.amazon.com/dp/1590593766/)  
-
-This wiki is updated daily from its [github repo](https://github.com/nathschwarz/rzshwiki) through the [rwikibot](https://github.com/nathschwarz/rwikibot).
+[The Book](http://www.amazon.com/dp/1590593766/) - The official book, written by the zsh developers
