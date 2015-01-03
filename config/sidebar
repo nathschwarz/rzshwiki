@@ -7,8 +7,7 @@ it is made for bash scripts but also works with zsh for the most part.
 
 Learning resources can be found in our [wiki](/r/zsh/wiki).
 
-#What does zsh different from bash/ksh/...?
-
+##What does zsh different from bash/ksh/...?
 * zsh completion is fast, interactive and shows the meanings of flags
 * highly customizeable
 * parses .ssh/known_hosts for ssh
@@ -19,6 +18,6 @@ Learning resources can be found in our [wiki](/r/zsh/wiki).
 
 Read [zsh FAQ Chapter 02](http://zsh.sourceforge.net/FAQ/zshfaq02.html) for more info.
 
-#Related subreddits
-/r/commandline
+##Related subreddits
+/r/commandline  
 /r/bash
