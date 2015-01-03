@@ -1,3 +1,24 @@
 Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 
 Please check on the [zshwiki.org FAQ](http://zshwiki.org/home/docs/wikifaq) before asking questions.
+
+If your script behaves strange, please check it with [shellcheck](http://www.shellcheck.net/) -
+it is made for bash scripts but also works with zsh for the most part.
+
+Learning resources can be found in our [wiki](/r/zsh/wiki).
+
+#What does zsh different from bash/ksh/...?
+
+* zsh completion is fast, interactive and shows the meanings of flags
+* highly customizeable
+* parses .ssh/known_hosts for ssh
+* right-hand prompt
+* fuzzy directory/file completion
+* suffix aliases
+* ... much more
+
+Read [zsh FAQ Chapter 02](http://zsh.sourceforge.net/FAQ/zshfaq02.html) for more info.
+
+#Related subreddits
+/r/commandline
+/r/bash
