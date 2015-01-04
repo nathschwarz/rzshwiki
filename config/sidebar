@@ -2,7 +2,8 @@
 [Zsh](http://www.zsh.org/) is a shell designed for interactive use, although it is also a powerful scripting language.
 
 ###Before asking questions...
-Please check on the [zshwiki.org FAQ](http://zshwiki.org/home/docs/wikifaq) before asking questions.
+Please check on the [zshwiki.org FAQ](http://zshwiki.org/home/docs/wikifaq) and the official 
+[FAQ](http://zsh.sourceforge.net/FAQ/) before asking questions.
 
 If your script behaves strange, please check it with [shellcheck](http://www.shellcheck.net/) -
 it is made for bash scripts but also works with zsh for the most part.
